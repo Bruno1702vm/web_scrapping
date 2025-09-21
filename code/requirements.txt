@@ -1,5 +1,0 @@
-praw
-python-dotenv
-requests
-beautifulsoup4
-pandas
